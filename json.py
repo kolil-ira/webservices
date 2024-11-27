@@ -3,7 +3,7 @@ import json
 
 json_data = '''
 {
-  "name": "ira kiprop",
+  "name": "ira kip",
   "age":19,
   "address": {
     "street": "parklands",
