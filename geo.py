@@ -1,6 +1,6 @@
 import json
 
-# Sample GeoJSON data
+
 geojson_data = '''
 {
   "type": "FeatureCollection",
